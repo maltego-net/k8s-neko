@@ -1,4 +1,4 @@
 node_modules/
-/secrets/neko-secrets.yaml
+secrets/neko-secrets.yaml
 
 .env
